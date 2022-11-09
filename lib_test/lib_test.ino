@@ -1,5 +1,6 @@
+#include "SampleLib.h"
 #include <MyLib.h>
 
-void setup() {}
+void setup() { Serial.println(InnerSample); }
 
 void loop() {}
