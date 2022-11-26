@@ -1,3 +1,4 @@
 .vscode/*
 !.vscode/extensions.json
 ArduinoOutput
+WifiInfo.h
